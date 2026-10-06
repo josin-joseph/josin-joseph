@@ -21,7 +21,7 @@
 
 ## A little about me
 
-I’m a technical founder who enjoys turning useful ideas into working products. My projects explore **AI, healthcare, accessibility, and civic technology**—with a focus on learning by building and sharing the process.
+AI & Data Science Student passionate about Machine Learning, Software Development, and building impactful projects.
 
 > “Small, useful work over vague claims.”
 
