@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Josin Joseph — Technical Founder</title>
-  <desc id="description">A vintage editorial profile banner in parchment, ink, and brass tones.</desc>
+  <title id="title">Josin Joseph — AI and Data Science Student</title>
+  <desc id="description">A vintage field-notes banner for Josin Joseph, focused on machine learning and software development.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#f8f0df"/>
@@ -24,11 +24,11 @@
     <path d="M48 75V48h27M1125 48h27v27M48 285v27h27M1125 312h27v-27"/>
     <path d="M76 104h545M76 263h545"/>
   </g>
-  <text x="78" y="86" fill="#8a5130" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="4">TECHNICAL FOUNDER</text>
+  <text x="78" y="86" fill="#8a5130" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="4">AI AND DATA SCIENCE STUDENT</text>
   <text x="74" y="176" fill="#30271f" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">Josin Joseph</text>
-  <text x="78" y="221" fill="#594737" font-family="Georgia, 'Times New Roman', serif" font-size="25">Building useful things. Learning in public.</text>
+  <text x="78" y="221" fill="#594737" font-family="Georgia, 'Times New Roman', serif" font-size="25">Machine learning · Software · Useful ideas</text>
   <path d="M78 286h275" stroke="url(#brass)" stroke-width="3"/>
-  <text x="78" y="315" fill="#785c3d" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="2">IDEAS INTO WORKING PRODUCTS</text>
+  <text x="78" y="315" fill="#785c3d" font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="2">EXPERIMENT · BUILD · LEARN</text>
   <g transform="translate(930 180)" fill="none" stroke="#8a5130">
     <circle r="90" stroke-width="1.5"/>
     <circle r="78" stroke="#aa7c3e" stroke-width="1"/>
